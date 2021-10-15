@@ -1,0 +1,2 @@
+# Trajectory Planning
+This repository is part of Dynamics of Non Linear Robotic Systems [DNLRS] course for first year master students at Innopolis University.You can find the (TP.m) file in the (Matlab files) folder, in which you can find trajectory planning from a start point to an end point in the joint space. and in (Polynomial.m) file you can find the polynomial solution for the trajectory planning from start point to an end poit through a middle point.
